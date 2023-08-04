@@ -15,3 +15,16 @@ git pull
 incase of conflicts resolved 
 
 git push
+
+# git branching strategies
+
+git checkout -b<branch name>
+you can apply all the commands in the list #1.
+
+# to publish the branch
+
+git push -u origin <branch name>
+
+# to go to main branch
+
+git checkout <branchname>
